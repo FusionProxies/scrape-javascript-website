@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://fusionproxy.net/?utm_source=github&utm_medium=scrape-javascript-website">
+  <a href="https://fusionproxy.net/?utm_source=github&utm_medium=referral&utm_campaign=scrape-javascript-website">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FusionProxies/.github/main/assets/logo-on-dark.png">
       <img src="https://raw.githubusercontent.com/FusionProxies/.github/main/assets/logo-on-light.png" alt="Fusion Proxy" height="52">
@@ -98,7 +98,7 @@ python inline_json.py
 - [scrape-website-with-login](https://github.com/FusionProxies/scrape-website-with-login): scrape pages behind a login
 - [python-web-scraping](https://github.com/FusionProxies/python-web-scraping): the requests + BeautifulSoup basics
 
-[Fusion Proxy residential proxies](https://fusionproxy.net/proxies/residential?utm_source=github&utm_medium=scrape-javascript-website) from $2.95/GB, with a [free trial](https://fusionproxy.net/free-trial?utm_source=github&utm_medium=scrape-javascript-website).
+[Fusion Proxy residential proxies](https://fusionproxy.net/proxies/residential?utm_source=github&utm_medium=referral&utm_campaign=scrape-javascript-website) from $2.95/GB, with a [free trial](https://fusionproxy.net/free-trial?utm_source=github&utm_medium=referral&utm_campaign=scrape-javascript-website).
 
 ## License
 
